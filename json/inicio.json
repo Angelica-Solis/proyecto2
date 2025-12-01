@@ -1,0 +1,57 @@
+{
+    "titulo": "Guía Web para Mejorar el Sueño Estudiantil",
+    "subtitulo": "Propuesta Principal",
+    "descripcion": "Una guía hecha para estudiantes universitarios que quieren mejorar su descanso y recuperar su energía con hábitos de sueño simples y efectivos.",
+    "introduccion": {
+        "titulo": "Introducción al Problema",
+        "parrafos": [
+            "Muchos estudiantes no logran descansar lo suficiente debido a la carga académica y el estrés, lo que afecta directamente su rendimiento y bienestar. La falta de horas de sueño se ha vuelto un problema constante en la vida estudiantil, generando agotamiento, baja concentración y un impacto negativo en su salud diaria"
+        ],
+        "beneficios_titulo": "Beneficios de un buen descanso:",
+        "beneficios": [
+            "Mejora la concentración y memoria",
+            "Reduce el estrés y la ansiedad",
+            "Aumenta la energía durante el día",
+            "Fortalece el sistema inmunológico",
+            "Mejora el estado de ánimo"
+        ]
+    },
+    "galeria": {
+        "titulo": "Galería",
+        "imagenes": [
+            {
+                "src": "img/dormir1.png",
+                "alt": "Imagen 1",
+                "titulo": "Ambiente Perfecto",
+                "descripcion": "Crea un espacio tranquilo y oscuro para dormir mejor"
+            },
+            {
+                "src": "img/dormir2.png",
+                "alt": "Imagen 2",
+                "titulo": "Rutina Nocturna",
+                "descripcion": "Establece horarios regulares para mejorar tu ciclo de sueño"
+            },
+            {
+                "src": "img/dormir3.png",
+                "alt": "Imagen 3",
+                "titulo": "Desconexión Digital",
+                "descripcion": "Evita pantallas 1 hora antes de dormir"
+            },
+            {
+                "src": "img/dormir4.png",
+                "alt": "Imagen 4",
+                "titulo": "Descanso Reparador",
+                "descripcion": "7-9 horas de sueño para rendir al máximo"
+            }
+        ]
+    },
+    "propuesta": {
+        "titulo": "Propuesta De Solución",
+        "descripcion": "Ante el anterior problema, esta página busca ayudar a los estudiantes a mejorar sus hábitos de sueño, su rendimiento académico y su bienestar general. En nuestra página podrás registrar tus horas de descanso, consumo de cafeína y niveles de cansancio para recibir recomendaciones personalizadas sobre:",
+        "puntos": [
+            "Los mejores hábitos antes de dormir",
+            "Cuánto dura el efecto de la cafeína en tu cuerpo",
+            "Consultas a profesionales médicos del centro académico"
+        ]
+    }
+}
