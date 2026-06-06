@@ -530,6 +530,7 @@
                 cursor: pointer;
                 font-size: 20px;
             }
+
             /* Modal */
             .campoinput input,
             .campoinput select {
@@ -624,5 +625,36 @@
                 .menuburbuja {
                     padding: 15px !important;
                     gap: 15px !important;
+                }
+            }
+
+            /* responsivo para movil */
+            @media (max-width: 600px) {
+                .envolventecontacto {
+                    padding-top: 100px !important;
+                }
+
+                .contenedorcontacto {
+                    padding: 24px 18px !important;
+                    border-radius: 20px !important;
+                }
+
+                .contenedorcontacto h2 {
+                    font-size: 1.5rem !important;
+                    margin-bottom: 24px;
+                    letter-spacing: 1px;
+                }
+
+                form input[type="text"],
+                form input[type="email"],
+                form textarea {
+                    padding: 14px 16px !important;
+                    font-size: 0.95rem !important;
+                    border-radius: 14px !important;
+                }
+
+                .contenedormapa {
+                    height: 260px !important;
+                    border-radius: 20px !important;
                 }
             }
