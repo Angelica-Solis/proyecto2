@@ -239,7 +239,7 @@ function crearGrafico() {
     }
 
     const puntuacionSueno = Math.min((datosSaludGlobales.horasSueno / 8) * 100, 100);
-    const puntuacionCafeina = Math.max(100 - (datosSaludGlobales.cafeina * 25), 0);
+    const puntuacionCafeina = Math.min(datosSaludGlobales.cafeina * 25, 100);
 
     miGrafico = new Chart(contexto, {
         type: 'bar',
